@@ -1,0 +1,6 @@
+Next.js Project-- Ecommerce Website
+
+-next.js - typescript
+-tailwind
+- prisma
+-shadon UI
